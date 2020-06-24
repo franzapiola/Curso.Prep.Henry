@@ -1,0 +1,8 @@
+Una variable es asignarle un valor de cualquier tipo a un string.
+Un string es una seguidilla de letras y/o números. Un string siempre va entre comillas.
+Una función es un conjunto de instrucciones. Tiene argumentos dentro del paréntesis, y esos argumentos son importantes para 
+que la computadora pueda seguir las instrucciones. Si la instrucción es return, la computadora la realiza y allí
+termina la función.
+La declaración if sirve para indicarle a la computadora una condición. Si la condición se cumple, la computadora nos devolverá
+cierto output, y diferente output si no se cumple.
+Los valores booleanos son un tipo de valor diferente a los números. Sólo hay dos opciones: true o false.
