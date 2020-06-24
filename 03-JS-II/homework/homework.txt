@@ -1,0 +1,9 @@
+Un bucle for es básicamente una forma de darle una misma instrucción a la computadora varias veces, pero cambiando una variable,
+hasta llegar a determinado límite o a un resultado deseado. A veces es posible hacer esto sin usar un bucle for, pero éste lo
+facilita mucho.
+Los operadores lógicos son símbolos que le comunican a la computadora cierta condición para que ésta devuelva un valor booleano,
+es decir, true o false.
+Los operadores && y || funcionan a partir de dos condiciones:
+El operador && ('AND') devolverá true sólo si se cumplen ambas condiciones.
+El operador || ('OR') devolverá true si por lo menos una de las condiciones se cumple.
+Por último, el operador ! (NOT) hace que la computadora devuelva el valor opuesto al que devolvería normalmente.
