@@ -1,0 +1,4 @@
+Un array es en Javascript una lista, o un conjunto de elementos de cualquier tipo (número, string, booleano, null, undefined,
+pueden estar mezclados) que están ordenados. A cada elemento se le asigna un número según su lugar en la lista, con la
+peculiaridad de que empezamos a contar desde 0, osea que el primer elemento de la lista sería el elemento número 0, el segundo
+el número 1, etc.
