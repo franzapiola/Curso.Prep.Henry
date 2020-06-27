@@ -1,0 +1,5 @@
+Los objetos en Javascript son parecidos a los arrays, con la diferencia de que sus elementos no están organizados numéricamente, sino que están configurados en formato key:value. Una key es cualquier string. Un value puede ser cualquier valor de cualquier tipo.
+Los elementos dentro de un objeto se denominan propiedades.
+Las propiedades pueden ser una función. En este caso se las denomina método.
+El bucle 'for...in' sirve para explorar cada propiedad de un objeto. Es parecido al bucle 'for', pero con sintaxis diferente, ya que los objetos no están organizados numéricamente como los arrays.
+Para acceder a los valores de las propiedades de un objeto, se pueden usar dos notaciones diferentes. La dot notation consiste en el nombre del objeto, '.' y luego el nombre de la propiedad. La bracket notation consiste en el nombre del objeto, y luego el nombre del key entre corchetes.
