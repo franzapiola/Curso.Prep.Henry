@@ -1,0 +1,3 @@
+En Javascript, los objetos pertenecen a clases. Estas clases, a través del prototipo, logran que todos los objetos que pertenecen a ella puedan compartir ("heredar") métodos y propiedades. A la hora de crear un nuevo objeto de determinada clase, la keyword "new" simplifica nuestro trabajo al hacer varias tareas detrás de escena. Una de ellas es bindear (unir) el objeto creado al prototipo de la clase.
+
+La función constructora de un prototipo es la que vamos a invocar cuando queramos crear una nueva instancia de esa clase.

@@ -1,0 +1,1 @@
+Una función callback es simplemente una función que se utiliza como argumento en otra función. Por convención, se la llama "cb". Entender esto nos da acceso a algunos métodos de Javascript como .forEach, .reduce y .map, que simplifican nuestro código al permitirnos iterar sobre arreglos, pasando cada elemento a una función callback.
